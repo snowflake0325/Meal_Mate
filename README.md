@@ -12,3 +12,4 @@ R shiny app directory <br/>
     - receipeOptimizer.R <br/>
     - receipeOptimizer_2.R <br/>
     
+App Link: https://xueyingyang.shinyapps.io/mealmate/ 
