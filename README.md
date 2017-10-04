@@ -1,12 +1,14 @@
 # Meal_Mate working directory structure:
 R shiny app directory <br/>
-    - data (folder)>Rdata.CSV <br/>
-    - data (folder)>epi_r.CSV
-    - www (folder)>quick.jpg
-    - www (folder)>smallplates-hero-foreverloop.gif
-    - resconnect (folder)
-    - app.R
-    - epilink.R
-    - receipeOptimizer.R
-    - receipeOptimizer_2.R
+    - data (folder)
+        >Rdata.CSV <br/>
+        >epi_r.CSV <br/>
+    - www (folder)
+        >quick.jpg <br/>
+        >smallplates-hero-foreverloop.gif <br/>
+    - resconnect (folder) <br/>
+    - app.R <br/>
+    - epilink.R <br/>
+    - receipeOptimizer.R <br/>
+    - receipeOptimizer_2.R <br/>
     
